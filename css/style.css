@@ -87,6 +87,8 @@ nav {
   text-shadow: .2rem .2rem .2rem #424343;
   font-weight: 600;
   font-size: 6rem;
+  margin-bottom: 5rem;
+    
 }
 
 .tasks-btn {
@@ -180,6 +182,7 @@ nav {
 .plan-description {
   height: 70rem;
   margin-top: 4rem;
+ 
 }
 
 .plan-description h3 {
@@ -192,6 +195,7 @@ nav {
   font-size: 1.5rem;
   color: #c8cdd1;
   margin-top: 4rem;
+  font-weight: bold;
 }
 
 .list-container {
